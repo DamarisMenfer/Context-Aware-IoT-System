@@ -1,0 +1,13 @@
+-34 66:70:33:d4:a4:71 iPhone
+-51 22:a5:89:40:b8:7f DIRECT-OEDESKTOP-EI4MFMLmsIO
+-59 aa:5c:2c:4a:41:67 iPhone
+-81 78:48:59:46:1a:f0 eduroam
+-82 78:48:59:46:1a:f1 PersonnelINSA
+-85 78:48:59:46:1a:e1 PersonnelINSA
+-85 78:48:59:46:1a:e4 IOT
+-86 78:48:59:46:1a:e0 eduroam
+-86 78:48:59:46:1a:e3 InviteINSA
+-87 78:48:59:46:1a:e2 EtudiantINSA
+-88 78:48:59:46:18:44 IOT
+-89 78:48:59:46:18:41 PersonnelINSA
+-91 78:48:59:46:18:42 EtudiantINSA
