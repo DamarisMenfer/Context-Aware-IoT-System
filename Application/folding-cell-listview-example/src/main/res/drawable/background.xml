@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@color/colorPrimary" />
+
+    <item>
+        <bitmap android:src="@drawable/backgroundimg"
+            android:gravity="center" />
+
+    </item>
+
+    <item
+        android:width="183dp"
+        android:height="270dp"
+        android:gravity="center">
+        <bitmap android:src="@drawable/logosmartcampus"
+             />
+
+    </item>
+
+
+</layer-list>
